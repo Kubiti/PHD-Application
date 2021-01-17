@@ -23,3 +23,10 @@ body {
     line-height: 1.5;
   }
   
+  .underline {
+    text-decoration: underline;
+  }
+
+  .tab {
+    padding-left: 20px;
+  }
