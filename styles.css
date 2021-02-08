@@ -23,11 +23,3 @@ body {
     line-height: 1.5;
   }
 
-  .tab {
-    padding-left: 0 0 1em 20px;
-  }
-
-  .dotted {
-    text-decoration: underline;
-    text-decoration-style: dotted;
-  }
