@@ -1,5 +1,5 @@
 body {
-    max-width: 80%;
+    max-width: 800px;
     margin: 0 auto;
   }
   
@@ -23,3 +23,9 @@ body {
     line-height: 1.5;
   }
 
+
+  @media only screen and (max-width: 1000px) {
+    body {
+      max-width: 80%;
+    }
+  }
